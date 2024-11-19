@@ -1,6 +1,6 @@
 # Relatório de Auditoria - Identificação e Resolução de Problemas no Sistema
 
-**Data da Auditoria:** 18/11/2024  
+**Data da Auditoria:** 18/10/2024  
 
 ## Equipe Participante:
 - **Carlos Uchôa** (Gerente de Projeto)
