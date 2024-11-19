@@ -30,14 +30,14 @@ Avaliar problemas relatados no sistema, classificar sua gravidade, discutir solu
 
 | **ID** | **Descrição do Problema**                                           | **Categoria**      | **Responsável**  | **Impacto**    | **Prazo**     |
 |--------|----------------------------------------------------------------------|--------------------|------------------|----------------|---------------|
-| #9     | Falha ao processar pagamentos no sistema                            | Fato Incorreto     | Julia Farias     | Crítico        | 20/11/2024    |
-| #8     | Notificações não estão sendo enviadas para transações               | Omissão            | Bruna Miranda    | Alto           | 22/11/2024    |
-| #7     | Falha ao adicionar livros para troca ou venda                      | Fato Incorreto     | Julia Farias     | Alto           | 20/11/2024    |
-| #6     | Os usuários não fornecem visualização do histórico de trocas        | Omissão            | Wellython Sá     | Médio          | 24/11/2024    |
-| #5     | Falha ao editar informações de perfil de outros usuários            | Fato Incorreto     | Julia Farias     | Médio          | 23/11/2024    |
-| #4     | Relatórios de transações não estão sendo gerados                    | Fato Incorreto     | Wellython Sá     | Crítico        | 21/11/2024    |
-| #3     | Erro ao gerenciar usuários no sistema                               | Omissão            | Bruna Miranda    | Alto           | 24/11/2024    |
-| #2     | Erro na moderação de conteúdo pelo administrador                    | Fato Incorreto     | Wellython Sá     | Crítico        | 20/11/2024    |
+| #9     | Falha ao processar pagamentos no sistema                            | Fato Incorreto     | Julia Farias     | Crítico        | 10/12/2024    |
+| #8     | Notificações não estão sendo enviadas para transações               | Omissão            | Bruna Miranda    | Alto           | 10/12/2024    |
+| #7     | Falha ao adicionar livros para troca ou venda                      | Fato Incorreto     | Julia Farias     | Alto           | 10/12/2024    |
+| #6     | Os usuários não fornecem visualização do histórico de trocas        | Omissão            | Wellython Sá     | Médio          | 10/12/2024    |
+| #5     | Falha ao editar informações de perfil de outros usuários            | Fato Incorreto     | Julia Farias     | Médio          | 10/12/2024    |
+| #4     | Relatórios de transações não estão sendo gerados                    | Fato Incorreto     | Wellython Sá     | Crítico        | 10/12/2024    |
+| #3     | Erro ao gerenciar usuários no sistema                               | Omissão            | Bruna Miranda    | Alto           | 10/12/2024    |
+| #2     | Erro na moderação de conteúdo pelo administrador                    | Fato Incorreto     | Wellython Sá     | Crítico        | 10/12/2024    |
 
 ---
 
