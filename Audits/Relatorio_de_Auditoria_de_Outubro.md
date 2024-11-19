@@ -5,8 +5,8 @@
 ## Equipe Participante:
 - **Carlos Uchôa** (Gerente de Projeto)
 - **Bruna Miranda** (Desenvolvedora Frontend)
-- **Julia Farias** (Desenvolvedora Backend)
-- **Wellython Sá** (Analista de Banco de Dados)
+- **Wellython Sá** (Desenvolvedora Backend)
+- **Julia Farias** (Analista de Banco de Dados)
 
 ---
 
