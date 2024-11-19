@@ -70,7 +70,7 @@ Avaliar problemas relatados no sistema, classificar sua gravidade, discutir solu
 
 #### **Histórico de trocas ausente (#6):**
 - **Impacto:** Prejudica a experiência do usuário e dificulta o rastreamento de atividades.
-- **Solução:** Wellython deve criar uma tabela adicional no banco para armazenar o histórico de trocas.
+- **Solução:** Julia deve criar uma tabela adicional no banco para armazenar o histórico de trocas.
 
 #### **Erro ao gerenciar usuários (#3):**
 - **Impacto:** Dificulta o gerenciamento administrativo de contas.
@@ -81,16 +81,16 @@ Avaliar problemas relatados no sistema, classificar sua gravidade, discutir solu
 ## Plano de Ação
 
 ### 1. Correções Prioritárias
-- **Problemas Críticos:** Resolver até 21/11/2024.
+- **Problemas Críticos:** Resolver até 10/12/2024.
 - **Responsáveis:**
   - Julia: Pagamentos (#9), perfis de usuários (#5).
-  - Wellython: Relatórios (#4), moderação (#2).
+  - Julia: Relatórios (#4), moderação (#2).
 
 ### 2. Implementação de Melhorias
-- **Melhorias Funcionais:** Resolver até 24/11/2024.
+- **Melhorias Funcionais:** Resolver até 10/12/2024.
 - **Responsáveis:**
   - Bruna: Notificações (#8), gerenciamento de usuários (#3).
-  - Wellython: Histórico de trocas (#6).
+  - Julia: Histórico de trocas (#6).
 
 ### 3. Revisão e Testes
 - **Responsável:** Carlos Uchôa.
@@ -108,8 +108,8 @@ Avaliar problemas relatados no sistema, classificar sua gravidade, discutir solu
 ## Responsáveis
 - **Coordenação Geral:** Carlos Uchôa
 - **Desenvolvimento Frontend:** Bruna Miranda
-- **Desenvolvimento Backend:** Julia Farias
-- **Banco de Dados:** Wellython Sá
+- **Desenvolvimento Backend:** Wellython Sá
+- **Banco de Dados:** Julia Farias
 
 ---
 
